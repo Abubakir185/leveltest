@@ -1,0 +1,4162 @@
+[
+  {
+    "level_id": 1,
+    "text": "What is the plural of 'child'?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "childs",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "children",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "childes",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "childrens",   
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Choose the correct article: ___ orange is on the table.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "An",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "The",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "No article",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "He ___ happy.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "is",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "are",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "be",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "What is the opposite of 'big'?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "tall",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "long",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "thin",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "small",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "___ am a student.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "She",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "I",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "He",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "They",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "The cat is ___ the box.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "on",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "under",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "in",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "behind",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "How do you spell the number 7?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "siven",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "seaven",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "seven",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "sevenn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "We ____ English.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "speak",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "speaks",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "speaking",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "spoken",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Which of these is a color?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "green",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "table",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "run",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "loud",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "This is ___ book.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "me",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "my",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "I",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "mine",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "One foot, two ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "foots",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "footes",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "feeties",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "feet",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "She has ___ umbrella.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "a",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "no article",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "an",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "They ___ soccer every Saturday.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "plays",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "playing",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "played",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "play",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "___ is my mother.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "She",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "He",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "They",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "We",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "I ___ breakfast at 7 am.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "eats",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "ate",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "eat",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "eating",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "What is the opposite of 'hot'?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "dry",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "warm",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "cold",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "wet",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "The book is ___ the table.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "in",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "on",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "under",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "next",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "The plural of 'mouse' is ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "mouses",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "mouse",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "micees",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "mice",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "You ___ tall.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "are",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "is",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "be",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "___ is your name?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Who",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Where",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "What",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Why",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Choose the correct article: ___ cat is black.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "An",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "The",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "No article",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "A",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "She ____ a teacher.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "are",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "is",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "be",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "What is the opposite of 'slow'?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "small",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "fast",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "short",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "thin",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Which word is a day of the week?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Monday",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Morning",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "May",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Minute",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "They ____ to music.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "listen",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "listens",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "listening",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "listened",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "These are ___ shoes.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "you",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "your",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "yours",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "their",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Which word is a fruit?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "bread",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "chair",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "water",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "apple",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "He ____ coffee.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "drink",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "drinking",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "drinks",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "drank",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Select the consonant.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "b",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "a",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "e",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "i",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "One woman, two ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "womans",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "women",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "womanses",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "woman",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "The sky is ___.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "circle",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "loud",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "walk",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "blue",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Choose a farm animal.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "tiger",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "shark",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "sparrow",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "cow",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "___ are friends.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "She",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "We",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "He",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "It",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "It ___ cold today.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "are",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "is",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "be",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Which is a preposition?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "quick",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "run",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "under",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "blue",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Choose the opposite of 'old'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "new",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "little",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "short",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "young",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "How do you spell the number 10?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "ten",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "teen",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "tien",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "tine",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Which word is a month?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Friday",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "January",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Winter",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Night",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Choose the correct comparative of 'small'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "smallest",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "more small",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "smallier",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "smaller",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 1,
+    "text": "Which word is a verb?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "red",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "soft",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "happy",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "run",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Choose the past simple form of 'go'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "goed",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "gone",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "goes",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "went",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "She lives ___ Paris.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "at",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "on",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "in",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "___ you like coffee?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Does",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Do",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Is",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Are",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Past simple of 'buy' is ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "buyed",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "buys",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "bought",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "buy",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "There ___ some milk.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "are",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "is",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "be",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "am",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Choose the comparative of 'big'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "biggest",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "more big",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "bigger",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "big",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Which word is countable?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "water",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "rice",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "music",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "apple",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "I ___ going to study tonight.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "is",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "are",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "am",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "be",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "She sings ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "well",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "good",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "better",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "best",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "We meet ___ Monday.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "in",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "on",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "at",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "to",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Past simple negative: I ___ go.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "do not",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "did not",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "does not",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "not",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "One tooth, two ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "tooths",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "toothes",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "teeth",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "teeths",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "I want ___ apple.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "a",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "an",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "the",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "some",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "This is ___ book.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "John",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Johns",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "John's",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Johns'",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Correct word order.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "She always is late.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Always she is late.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Late she is always.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "She is always late.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "The weather is ___ today.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "sun",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "sunshine",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "sunny",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "suns",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Which is an irregular verb?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "talk",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "play",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "eat",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "need",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "He ___ swim when he was five.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "can",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "might",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "could",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "must",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "That car is ___.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "ours",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "us",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "we",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "our",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Choose the superlative of 'tall'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "tallest",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "taller",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "most tall",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "more tall",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "He ___ to music yesterday.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "listen",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "listened",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "listens",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "listening",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Which adverb of frequency means 50%?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "sometimes",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "always",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "never",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "rarely",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Synonym of 'happy'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "sad",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "glad",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "angry",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "tired",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "The picture is ___ the wall.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "in",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "under",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "between",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "on",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "___ did you go?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Who",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Why",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Where",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "When",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Reply to 'Thank you'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Yes, please",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "You're welcome",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Excuse me",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Goodbye",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Past of 'teach'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "teached",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "teach",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "teacht",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "taught",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Spelling of number 30.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "threety",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "thirty",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "thrity",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "thirthy",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Correct word order.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "He quickly runs.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Quickly he runs.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Runs he quickly.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "He runs quickly.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Choose an indefinite pronoun for something.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "someone",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "something",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "somewhere",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "somebody",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "She is a teacher, ___?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "doesn't she",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "is she",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "did she",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "isn't she",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Choose the correct article for 'hour'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "a hour",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the hour",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "hour",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "an hour",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Which phrasal verb means 'continue'?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "give up",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "take off",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "put off",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "carry on",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Plural of 'knife'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "knife",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "knives",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "knifes",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "knive",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Comparative of 'good'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "gooder",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "better",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "more good",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "best",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "I enjoy ____ movies.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "watch",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "to watch",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "watching",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "watched",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "I'd rather ___ at home.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "staying",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "stayed",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to stay",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "stay",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "If water boils, it ___.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "evaporated",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "evaporate",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "will evaporate",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "evaporates",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "Synonym of 'begin'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "stop",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "finish",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "start",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "end",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 2,
+    "text": "She gave ___ a gift.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "he",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "him",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "his",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "himself",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "I have ___ seen that movie.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "yet",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "still",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "soon",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "already",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "He has lived here ___ 2019.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "for",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "from",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "since",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "in",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "If it rains, I ___ home.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "stay",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "stayed",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "will stay",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "am staying",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "They ___ dinner when I arrived.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "are having",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "were having",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "have",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "had",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "English is spoken here.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "English speaks here.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "English is spoken here.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "English is speak here.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "English spoken here.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Which modal expresses obligation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "can",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "might",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "could",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "must",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "___ you ever been to London?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Did",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Do",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Have",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Are",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "By this time tomorrow, she ___ the exam.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "finishes",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "will finish",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "had finished",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "will have finished",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "The man ___ lives next door is a doctor.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "who",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "which",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "where",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "what",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "I wish I ___ taller.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "were",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "was",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "be",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Let's ___ the lights.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "take off",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "give up",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "turn off",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "put on",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "She said that she ___ tired.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "was",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "is",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "be",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "were",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "I enjoy ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "reading",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "read",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to read",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "reads",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "They have been friends ___ childhood.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "for",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "since",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "from",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "in",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Comparative of 'far'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "more far",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "farther",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "farer",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "farest",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "I had my car ___ yesterday.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "repair",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "repairing",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to repair",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "repaired",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "There are ___ people in the room.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "little",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "less",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "much",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "few",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "They ___ when we called.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "had left",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "left",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "leave",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "has left",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "She can't stand ___ late.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "work",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "to working",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "working",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "worked",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Can you tell me ___?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "where the station is",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "where is the station",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "the station is where",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "where station is",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "You haven't eaten, ___?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "haven't you",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "have you",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "did you",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "don't you",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "He said he ___ the next day.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "will come",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "comes",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "would come",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "came",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "___happy means not happy.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "inhappy",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "mishappy",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "unhappy",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "dishappy",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Make ___ mistake.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "the",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "an",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "one",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "hope___ (meaning 'full of hope').",
+    "options": [
+      {
+        "letter": "A",
+        "text": "hopeous",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "hopeful",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "hopely",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "hopeist",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "I was late ___ the traffic.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "although",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "despite",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "in spite",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "because of",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "If I ___ enough money, I'd buy a car.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "have",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "would have",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "had",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "will have",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "count ___ (rely on).",
+    "options": [
+      {
+        "letter": "A",
+        "text": "on",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "in",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "at",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "for",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "She prefers reading ___ watching TV.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "than",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "over",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "at",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "The film was ___ interesting than I expected.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "most",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "much",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "many",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "more",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "It's easy ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "learn",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "learning",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to learning",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "to learn",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "___ I had the key, I opened the door.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Because",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Although",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "While",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "If",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "a piece of ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "advice",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "advices",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "information",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "equipments",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Plural of 'phenomenon'.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "phenomenons",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "phenomena",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "phenomenon",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "phenomenen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "He is interested ___ astronomy.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "on",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "at",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "in",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "to",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Order of adjectives: a ___ car.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "beautiful red Italian",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Italian red beautiful",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "red Italian beautiful",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "beautiful Italian red",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "Neither my brother ___ my sister likes sushi.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "or",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "nor",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "and",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "but",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "'look after' means ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "search for",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "take care of",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "examine",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "admire",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "If I had known, I ___ have come.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "would have",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "would",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "will",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "had",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 3,
+    "text": "He said that he ___ tired.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "is",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "were",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "be",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "was",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "She likes swimming, and so ___ I.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "do",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "like",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "did",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "The book, ___ was published in 1920, is out of print.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "that",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "what",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "who",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "which",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "I will ___ my hair cut tomorrow.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "get",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "have",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "make",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "take",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Had I known about the traffic, I ___ earlier.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "will leave",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "would have left",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "left",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "would leave",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "'put ___' means tolerate.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "in for",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "away with",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "up with",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "down to",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "No sooner had he arrived ___ it started raining.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "than",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "when",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "then",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "that",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "It's high time you ___ to bed.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "go",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "went",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "going",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "had gone",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "The documents will be sent tomorrow.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "The documents are sent tomorrow.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "The documents will send tomorrow.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Tomorrow will be sent the documents.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "The documents will be sent tomorrow.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "If she ___ harder, she would have passed.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "had studied",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "studied",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "studies",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "was studying",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "I look forward ___ from you.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "to hear",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "hearing",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to hearing",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "hear",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "I wish he ___ here now.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "was",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "is",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "be",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "were",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Hardly ____ the show begun when the lights went out.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "has",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "have",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "had",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "did",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "The manager demanded that the report ___ immediately.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "is sent",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "was sent",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "be sent",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "sent",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "He worked hard; ___, he failed.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "nevertheless",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "because",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "although",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "however",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "'create' -> ___ (act of creating)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "creator",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "creation",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "creative",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "creativity",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Neither the teachers nor the student ___ aware of the change.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "are",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "were",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "is",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "have",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "I'd rather you ___ smoke here.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "don't",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "not",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "wouldn't",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "didn't",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Seldom ___ such a beautiful sight.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "I have seen",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "have I seen",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "has I seen",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "seen I have",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "heavy ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "rain",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "wind",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "sun",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "snow",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "The film was ___ to be true.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "too good",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "so good",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "enough good",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "such good",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "a 200-page ___",
+    "options": [
+      {
+        "letter": "A",
+        "text": "books",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "pages book",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "book",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "page book",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Not only ___ late, but he also forgot the tickets.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "he was",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "he is",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "was he",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "is he",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "If only I ___ more time!",
+    "options": [
+      {
+        "letter": "A",
+        "text": "have",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "had",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "had had",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "would have",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "He speaks English ___ than I do.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "most fluently",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "more fluently",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "fluenter",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "fluentlier",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "The committee ___ agreed.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "have",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "is",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "has",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "are",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "The book is thought ___ by Shakespeare.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "to have been written",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "to be written",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to write",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "to have wrote",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "She said she would finish it by Monday, ___ she?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "wouldn't",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "didn't",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "won't",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "doesn't",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Despite ___ hard, he failed.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "he worked",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "work",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "working",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "worked",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "He denied ___ the money.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "take",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "taking",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "took",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "to take",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "It was the first time I ___ sushi.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "eat",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "ate",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "had eaten",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "have eaten",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Let's ___ the meeting until next week.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "put up",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "put on",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "put off",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "put out",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "She apologized ___ late.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "to be",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "of being",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "about being",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "for being",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Hard work is the key ___ success.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "for",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "of",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "with",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "to",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "What you said is a case ___ point.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "on",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "at",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "in",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "of",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "Had it not ___ for your help, I would have failed.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "been",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "be",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "was",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "were",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "I prefer tea ___ coffee.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "to",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "than",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "over",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "instead",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "hit the ___ on the head.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "hammer",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "stone",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "nail",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "stick",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "If I ___ you, I'd apologize.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "was",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "were",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "be",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "She is said ___ a fortune.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "to inherit",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "to have inherit",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to have inherited",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "to inherited",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "level_id": 4,
+    "text": "He was ill; ___, he went to work.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "however",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "because",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "since",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "therefore",
+        "is_correct": false
+      }
+    ]
+  }
+]
