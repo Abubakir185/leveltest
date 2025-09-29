@@ -1,6 +1,6 @@
 from database import Base
 from sqlalchemy.orm import Mapped, mapped_column, relationship
-from sqlalchemy import String, Integer, Text, DateTime, ForeignKey
+from sqlalchemy import String, Integer, Text, DateTime, ForeignKey, BigInteger, Boolean
 from datetime import datetime
 
 
@@ -51,3 +51,15 @@ class UserAnswer(Base):
 
     user: Mapped["User"] = relationship(back_populates="user_answers")
     question: Mapped["Question"] = relationship(back_populates="user_answers")
+
+
+class Kanal(Base):
+    __tablename__ = "kanallar"
+
+    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
+    kanal_nomi: Mapped[str] = mapped_column(Text)
+    kanal_id: Mapped[int] = mapped_column(BigInteger)
+    kanal_url: Mapped[str] = mapped_column(Text)
+    status: Mapped[bool] = mapped_column(Boolean, default=True)
+    is_joined: Mapped[int] = mapped_column(Integer, default=0)
+    user_count: Mapped[int] = mapped_column(Integer, default=0)
